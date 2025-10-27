@@ -12,8 +12,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **AI INTERVIEW**
-- 🌱 Working on real-world full-stack projects using **python and Ai Frameworks **
+- 🏫 I'm currently pursuing B.Tech in **Computer Science and Engineering** (India)
+- 🔭 I'm currently working on Resume-Genie(AI)
+- 🌱 Working on real-world full-stack projects using python and Ai Frameworks.
 - 💼 Exploring **serverless, cloud setups, frontend UI libraries**
 - 🏗️ Building & maintaining **dev-portfolio(https://dev-ily.vercel.app)**
 - 🔓 Open to exciting work opportunities
