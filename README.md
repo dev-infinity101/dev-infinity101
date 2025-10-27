@@ -83,6 +83,5 @@
 
 ### Thanks for stopping by! 😊
 
-![Visitor Count](https://profile-counter.glitch.me/dev-infinity101/count.svg)
 
 </div>
