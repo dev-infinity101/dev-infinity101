@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🏫 I'm currently pursuing B.Tech in **Computer Science and Engineering** (India)
-- 🔭 I'm currently working on Resume-Genie(AI)
+- 🔭 I'm currently working on MAYA-AI an assitant for Indian Businesses
 - 🌱 Working on real-world full-stack projects using python and Ai Frameworks.
 - 💼 Exploring **serverless, cloud setups, frontend UI libraries**
 - 🏗️ Building & maintaining **dev-portfolio(https://dev-ily.vercel.app)**
