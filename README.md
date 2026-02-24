@@ -75,7 +75,7 @@
 
 - **Email:** Prabodhq89@gmail.com(mailto:prabodhq89@gmail.com)
 - **LinkedIn:** [@prab101](https://www.linkedin.com/in/prab101/)
-- **Twitter:** [@dazz_dev69](https://x.com/Sleeplessdev3)
+- **Twitter:** [@Sleeplessdev3](https://x.com/Sleeplessdev3)
 
 ---
 
