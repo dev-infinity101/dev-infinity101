@@ -86,8 +86,8 @@ $ cat about.md
 $ ping socials --all
 
   ▸ LinkedIn  →  https://www.linkedin.com/in/prab101/
-  ▸ Twitter   →  https://x.com/dazz_dev69
-  ▸ Portfolio →  https://dev-ily.vercel.app
+  ▸ Twitter   →  https://x.com/SleeplessDev3
+  ▸ Portfolio →  https://sleeplessdev.vercel.app
   ▸ Email     →  Prabodhq89@gmail.com
 ```
 
