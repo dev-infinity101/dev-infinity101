@@ -33,13 +33,13 @@ $ whoami
 ```zsh
 $ cat about.md
 
-  🎓  B.Tech — Computer Science & Engineering  [India]
-  🤖  Currently shipping → MAYA-AI (AI Assistant for Indian Businesses)
-  🛠️  Stack focus → Python · AI Frameworks · Full-Stack Web
-  ☁️  Exploring → Serverless · Cloud Architecture · Frontend UI Libraries
-  🌐  Portfolio → https://Sleeplessdev.vercel.app
-  🔓  Status → Open to exciting opportunities
-  ⚡  Fueled by → Curiosity · Code · Collaboration
+     B.Tech — Computer Science & Engineering  [India]
+     Currently shipping → MAYA-AI (AI Assistant for Indian Businesses)
+     Stack focus → Python · AI Frameworks · Full-Stack Web
+     Exploring → Serverless · Cloud Architecture · Frontend UI Libraries
+     Portfolio → https://Sleeplessdev.vercel.app
+     Status → Open to exciting opportunities
+     Fueled by → Curiosity · Code · Collaboration
 ```
 
 ---
